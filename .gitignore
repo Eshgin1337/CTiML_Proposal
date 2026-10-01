@@ -8,4 +8,5 @@
 *.fdb_latexmk
 *.synctex.gz
 *.toc
+*.brf
 .DS_Store
